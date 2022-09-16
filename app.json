@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "pin-system",
+    "slug": "pin-system",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
